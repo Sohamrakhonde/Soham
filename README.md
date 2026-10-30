@@ -1,4 +1,4 @@
-# Soham Rakhonde
+# Rohit
 
 Personal portfolio website for [sohamrakhonde.com](https://sohamrakhonde.com).
 
